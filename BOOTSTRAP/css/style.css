@@ -1,0 +1,14 @@
+input.btn{
+    background-color: maroon;
+    color: white;
+}
+input.btn:hover{
+    color: white;
+}
+a.btn{
+    background-color:white;
+    color:maroon; 
+}
+a.btn:hover{
+    color:maroon;
+}
